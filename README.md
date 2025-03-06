@@ -1,2 +1,2 @@
 # Sigma-demo
-Config files for my GitHub profile.
+This is a demo for Git and Github Class.
